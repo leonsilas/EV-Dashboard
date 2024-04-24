@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/wa_flag.webp" width="800"/>
+<img src="assets/wa_flag.webp" width="200"/>
 </p>
 <h3 align="center">Data Vizualization on the Electric Vehicles of Washington State</h3>
 <h1></h1>
